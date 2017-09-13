@@ -4,9 +4,9 @@
 
 Библиотека является частью пакета [php-common](#).
 
-* [Страница проекта](https://github.com/gleb-mihalkov/php-common-singleton)
+* [Страница проекта](https://github.com/gleb-mihalkov/php-common-singleton/)
 
-* [Документация](https://gleb-mihalkov.github.io/php-common-singleton)
+* [Документация](https://gleb-mihalkov.github.io/php-common-singleton/)
 
 ## Использование
 

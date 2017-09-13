@@ -1,5 +1,5 @@
 {
-    "name": "gm/php-patterns-singleton",
+    "name": "gm/php-common-singleton",
     "description": "Типаж, реализующий паттерн 'синглтон'.",
     "type": "library",
     "minimum-stability": "stable",
